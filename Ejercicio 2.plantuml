@@ -1,0 +1,7 @@
+@startuml
+object Guillermo
+
+Guillermo : Nombre = "Dummy"
+Guillermo : Apellido = 123
+Guillermo : Sexo = 
+@enduml
